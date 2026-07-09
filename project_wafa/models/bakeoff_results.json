@@ -1,0 +1,227 @@
+{
+  "note": "held_out shares generator templates with training (upper bound); unseen uses brand-new templates (honest number)",
+  "lstm": {
+    "held_out": {
+      "n": 51,
+      "issue_acc": 1.0,
+      "signal_acc": 0.9803921568627451,
+      "per_language": {
+        "en": {
+          "n": 27,
+          "issue_acc": 1.0,
+          "signal_acc": 1.0
+        },
+        "ar": {
+          "n": 13,
+          "issue_acc": 1.0,
+          "signal_acc": 1.0
+        },
+        "hi": {
+          "n": 4,
+          "issue_acc": 1.0,
+          "signal_acc": 0.75
+        },
+        "tl": {
+          "n": 7,
+          "issue_acc": 1.0,
+          "signal_acc": 1.0
+        }
+      }
+    },
+    "unseen": {
+      "n": 126,
+      "issue_acc": 0.31746031746031744,
+      "signal_acc": 0.5476190476190477,
+      "per_language": {
+        "en": {
+          "n": 69,
+          "issue_acc": 0.3333333333333333,
+          "signal_acc": 0.5362318840579711
+        },
+        "ar": {
+          "n": 21,
+          "issue_acc": 0.09523809523809523,
+          "signal_acc": 0.2857142857142857
+        },
+        "hi": {
+          "n": 17,
+          "issue_acc": 0.5882352941176471,
+          "signal_acc": 0.6470588235294118
+        },
+        "tl": {
+          "n": 19,
+          "issue_acc": 0.2631578947368421,
+          "signal_acc": 0.7894736842105263
+        }
+      }
+    }
+  },
+  "heuristic": {
+    "held_out": {
+      "n": 51,
+      "issue_acc": 0.9411764705882353,
+      "signal_acc": 1.0,
+      "per_language": {
+        "en": {
+          "n": 27,
+          "issue_acc": 0.9629629629629629,
+          "signal_acc": 1.0
+        },
+        "ar": {
+          "n": 13,
+          "issue_acc": 1.0,
+          "signal_acc": 1.0
+        },
+        "hi": {
+          "n": 4,
+          "issue_acc": 0.75,
+          "signal_acc": 1.0
+        },
+        "tl": {
+          "n": 7,
+          "issue_acc": 0.8571428571428571,
+          "signal_acc": 1.0
+        }
+      }
+    },
+    "unseen": {
+      "n": 126,
+      "issue_acc": 0.5238095238095238,
+      "signal_acc": 0.3333333333333333,
+      "per_language": {
+        "en": {
+          "n": 69,
+          "issue_acc": 0.4492753623188406,
+          "signal_acc": 0.2753623188405797
+        },
+        "ar": {
+          "n": 21,
+          "issue_acc": 0.47619047619047616,
+          "signal_acc": 0.47619047619047616
+        },
+        "hi": {
+          "n": 17,
+          "issue_acc": 0.7058823529411765,
+          "signal_acc": 0.35294117647058826
+        },
+        "tl": {
+          "n": 19,
+          "issue_acc": 0.6842105263157895,
+          "signal_acc": 0.3684210526315789
+        }
+      }
+    }
+  },
+  "finetuned_distilmbert": {
+    "held_out": {
+      "n": 51,
+      "issue_acc": 1.0,
+      "signal_acc": 0.9803921568627451,
+      "per_language": {
+        "en": {
+          "n": 27,
+          "issue_acc": 1.0,
+          "signal_acc": 1.0
+        },
+        "ar": {
+          "n": 13,
+          "issue_acc": 1.0,
+          "signal_acc": 1.0
+        },
+        "hi": {
+          "n": 4,
+          "issue_acc": 1.0,
+          "signal_acc": 0.75
+        },
+        "tl": {
+          "n": 7,
+          "issue_acc": 1.0,
+          "signal_acc": 1.0
+        }
+      }
+    },
+    "unseen": {
+      "n": 126,
+      "issue_acc": 0.5396825396825397,
+      "signal_acc": 0.5555555555555556,
+      "per_language": {
+        "en": {
+          "n": 69,
+          "issue_acc": 0.6231884057971014,
+          "signal_acc": 0.6231884057971014
+        },
+        "ar": {
+          "n": 21,
+          "issue_acc": 0.23809523809523808,
+          "signal_acc": 0.38095238095238093
+        },
+        "hi": {
+          "n": 17,
+          "issue_acc": 0.6470588235294118,
+          "signal_acc": 0.5882352941176471
+        },
+        "tl": {
+          "n": 19,
+          "issue_acc": 0.47368421052631576,
+          "signal_acc": 0.47368421052631576
+        }
+      }
+    }
+  },
+  "zeroshot_qwen2.5_0.5b": {
+    "held_out": {
+      "n": 51,
+      "issue_acc": 0.29411764705882354,
+      "signal_acc": 0.3333333333333333,
+      "per_language": {
+        "en": {
+          "n": 27,
+          "issue_acc": 0.3333333333333333,
+          "signal_acc": 0.2962962962962963
+        },
+        "ar": {
+          "n": 13,
+          "issue_acc": 0.23076923076923078,
+          "signal_acc": 0.38461538461538464
+        },
+        "hi": {
+          "n": 4,
+          "issue_acc": 0.0,
+          "signal_acc": 0.0
+        },
+        "tl": {
+          "n": 7,
+          "issue_acc": 0.42857142857142855,
+          "signal_acc": 0.5714285714285714
+        }
+      }
+    },
+    "unseen": {
+      "n": 126,
+      "issue_acc": 0.20634920634920634,
+      "signal_acc": 0.35714285714285715,
+      "per_language": {
+        "en": {
+          "n": 69,
+          "issue_acc": 0.18840579710144928,
+          "signal_acc": 0.2753623188405797
+        },
+        "ar": {
+          "n": 21,
+          "issue_acc": 0.14285714285714285,
+          "signal_acc": 0.5238095238095238
+        },
+        "hi": {
+          "n": 17,
+          "issue_acc": 0.29411764705882354,
+          "signal_acc": 0.4117647058823529
+        },
+        "tl": {
+          "n": 19,
+          "issue_acc": 0.2631578947368421,
+          "signal_acc": 0.42105263157894735
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "task": "churn_signal",
+  "overall": {
+    "High": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 17.0
+    },
+    "Medium": {
+      "precision": 1.0,
+      "recall": 0.9375,
+      "f1-score": 0.967741935483871,
+      "support": 16.0
+    },
+    "Low": {
+      "precision": 0.9473684210526315,
+      "recall": 1.0,
+      "f1-score": 0.972972972972973,
+      "support": 18.0
+    },
+    "accuracy": 0.9803921568627451,
+    "macro avg": {
+      "precision": 0.9824561403508771,
+      "recall": 0.9791666666666666,
+      "f1-score": 0.980238302818948,
+      "support": 51.0
+    },
+    "weighted avg": {
+      "precision": 0.9814241486068112,
+      "recall": 0.9803921568627451,
+      "f1-score": 0.9803408721814795,
+      "support": 51.0
+    }
+  },
+  "per_language_accuracy": {
+    "en": {
+      "n": 27,
+      "acc": 1.0
+    },
+    "ar": {
+      "n": 13,
+      "acc": 1.0
+    },
+    "hi": {
+      "n": 4,
+      "acc": 0.75
+    },
+    "tl": {
+      "n": 7,
+      "acc": 1.0
+    }
+  },
+  "note": "Random split shares generator templates between train/test; compare against models/lstm_eval.json under the same split seed for a fair bake-off."
+}

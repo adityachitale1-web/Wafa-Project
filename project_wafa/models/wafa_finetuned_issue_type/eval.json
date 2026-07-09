@@ -1,0 +1,79 @@
+{
+  "task": "issue_type",
+  "overall": {
+    "Account_Closure": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 6.0
+    },
+    "Remittance_Transfer": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "Loan_Mortgage": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 6.0
+    },
+    "Fees_Charges": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "Card_Services": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "App_Technical": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "General_Query": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 51.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 51.0
+    }
+  },
+  "per_language_accuracy": {
+    "en": {
+      "n": 27,
+      "acc": 1.0
+    },
+    "ar": {
+      "n": 13,
+      "acc": 1.0
+    },
+    "hi": {
+      "n": 4,
+      "acc": 1.0
+    },
+    "tl": {
+      "n": 7,
+      "acc": 1.0
+    }
+  },
+  "note": "Random split shares generator templates between train/test; compare against models/lstm_eval.json under the same split seed for a fair bake-off."
+}

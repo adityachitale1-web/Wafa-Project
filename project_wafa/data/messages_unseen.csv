@@ -1,0 +1,127 @@
+message_id,customer_id,text,language,issue_type,churn_signal
+U0112,FB1052,"kya bank chhutti ke din khula rehta hai. meri family wapas ja chuki hai, main bhi jald jaunga.",hi,General_Query,High
+U0102,FB1077,Everything feels up in the air for us right now. the mobile banking keeps logging me out every minute.,en,App_Technical,Medium
+U0077,FB1201,my credit card stopped working at the supermarket today. My family has already flown home and I follow soon.,en,Card_Services,High
+U0080,FB1235,Everything feels up in the air for us right now. someone may have stolen my card details please help.,en,Card_Services,Medium
+U0041,FB1189,pwede bang bayaran ko nang buo ang utang ko bago umalis. nakauwi na ang pamilya ko at susunod na ako.,tl,Loan_Mortgage,High
+U0023,FB1106,I am winding down everything here before we go. why is my money transfer stuck since yesterday.,en,Remittance_Transfer,High
+U0042,FB1007,"meri naukri khatam ho gayi, hum desh chhod rahe hain. kya main jaane se pehle apna loan chuka sakta hoon.",hi,Loan_Mortgage,High
+U0050,FB1184,har mahine ki kist ab bahut mushkil ho gayi hai. aapka din shubh ho.,hi,Loan_Mortgage,Low
+U0006,FB1138,My employer has ended my contract so we are packing up. please tell me the procedure to shut down all my accounts.,en,Account_Closure,High
+U0094,FB1225,"mobile banking baar baar logout kar raha hai. meri family wapas ja chuki hai, main bhi jald jaunga.",hi,App_Technical,High
+U0099,FB1000,sa totoo lang iniisip ko kung itutuloy ko pa dito. ayaw magbukas ng transaction history sa app.,tl,App_Technical,Medium
+U0053,FB1089,kya main jaane se pehle apna loan chuka sakta hoon. bas jaanna tha.,hi,Loan_Mortgage,Low
+U0087,FB1135,my credit card stopped working at the supermarket today. Many thanks.,en,Card_Services,Low
+U0067,FB1228,statement mein aisa charge hai jo maine approve nahi kiya. bas jaanna tha.,hi,Fees_Charges,Low
+U0121,FB1234,gusto ko lang malaman. bukas ba ang bangko sa holiday.,tl,General_Query,Low
+U0092,FB1087,"app mein transaction history nahi khul rahi. meri family wapas ja chuki hai, main bhi jald jaunga.",hi,App_Technical,High
+U0066,FB1136,كل شيء غير واضح بالنسبة لنا الآن. يوجد خصم في كشف حسابي لم أوافق عليه.,ar,Fees_Charges,Medium
+U0014,FB1107,I wish to terminate my banking relationship with you. Just wanted to ask.,en,Account_Closure,Low
+U0124,FB1059,هل البنك مفتوح في العطلة الرسمية. أتمنى لكم يوما سعيدا.,ar,General_Query,Low
+U0027,FB1131,why is my money transfer stuck since yesterday. Honestly I am rethinking whether to keep banking here.,en,Remittance_Transfer,Medium
+U0109,FB1000,عائلتي سافرت بالفعل وسألحق بهم قريبا. ما المستندات المطلوبة لتحديث رقم هاتفي.,ar,General_Query,High
+U0126,FB1036,gusto ko lang malaman. bukas ba ang bangko sa holiday.,tl,General_Query,Low
+U0052,FB1119,pwede bang bayaran ko nang buo ang utang ko bago umalis. magandang araw po.,tl,Loan_Mortgage,Low
+U0060,FB1198,your service charges doubled without any notice. My family has already flown home and I follow soon.,en,Fees_Charges,High
+U0044,FB1185,القسط الشهري أصبح مستحيلا علي. كل شيء غير واضح بالنسبة لنا الآن.,ar,Loan_Mortgage,Medium
+U0016,FB1069,أرغب في إنهاء تعاملي المصرفي معكم. أتمنى لكم يوما سعيدا.,ar,Account_Closure,Low
+U0108,FB1115,Have a great day. transaction history will not load on the app.,en,App_Technical,Low
+U0021,FB1127,لماذا تأخرت حوالتي المالية منذ الأمس. انتهى عقد عملي وسنغادر البلاد.,ar,Remittance_Transfer,High
+U0095,FB1215,My family has already flown home and I follow soon. the mobile banking keeps logging me out every minute.,en,App_Technical,High
+U0078,FB1010,My family has already flown home and I follow soon. my credit card stopped working at the supermarket today.,en,Card_Services,High
+U0116,FB1124,بصراحة أعيد التفكير في بقائي مع هذا البنك. ما المستندات المطلوبة لتحديث رقم هاتفي.,ar,General_Query,Medium
+U0083,FB1219,magulo pa ang lahat para sa amin ngayon. hindi gumana ang credit card ko sa grocery kanina.,tl,Card_Services,Medium
+U0059,FB1134,nadoble ang singil ninyo nang walang abiso. nakauwi na ang pamilya ko at susunod na ako.,tl,Fees_Charges,High
+U0047,FB1088,هل يمكن سداد قرضي الشخصي قبل السفر. كل شيء غير واضح بالنسبة لنا الآن.,ar,Loan_Mortgage,Medium
+U0046,FB1230,Honestly I am rethinking whether to keep banking here. the monthly installment has become impossible for me.,en,Loan_Mortgage,Medium
+U0013,FB1107,أتمنى لكم يوما سعيدا. أرغب في إنهاء تعاملي المصرفي معكم.,ar,Account_Closure,Low
+U0075,FB1112,توقفت بطاقتي الائتمانية عن العمل اليوم. انتهى عقد عملي وسنغادر البلاد.,ar,Card_Services,High
+U0012,FB1087,I keep getting disappointed by this bank lately. I wish to terminate my banking relationship with you.,en,Account_Closure,Medium
+U0086,FB1067,my credit card stopped working at the supermarket today. Have a great day.,en,Card_Services,Low
+U0097,FB1000,Honestly I am rethinking whether to keep banking here. the mobile banking keeps logging me out every minute.,en,App_Technical,Medium
+U0019,FB1156,انتهى عقد عملي وسنغادر البلاد. أريد إرسال كل مدخراتي إلى عائلتي في الخارج.,ar,Remittance_Transfer,High
+U0051,FB1043,the monthly installment has become impossible for me. Have a great day.,en,Loan_Mortgage,Low
+U0003,FB1017,My family has already flown home and I follow soon. please tell me the procedure to shut down all my accounts.,en,Account_Closure,High
+U0085,FB1011,baka ninakaw ang detalye ng card ko tulungan niyo ako. gusto ko lang malaman.,tl,Card_Services,Low
+U0018,FB1227,أرغب في إنهاء تعاملي المصرفي معكم. فقط أردت السؤال.,ar,Account_Closure,Low
+U0030,FB1053,Honestly I am rethinking whether to keep banking here. why is my money transfer stuck since yesterday.,en,Remittance_Transfer,Medium
+U0081,FB1071,I keep getting disappointed by this bank lately. someone may have stolen my card details please help.,en,Card_Services,Medium
+U0038,FB1164,I am winding down everything here before we go. is it possible to pay off my personal loan before leaving.,en,Loan_Mortgage,High
+U0031,FB1026,I want to send my entire savings to my family overseas. Many thanks.,en,Remittance_Transfer,Low
+U0055,FB1049,يوجد خصم في كشف حسابي لم أوافق عليه. انتهى عقد عملي وسنغادر البلاد.,ar,Fees_Charges,High
+U0113,FB1019,is the bank open during the public holiday. My employer has ended my contract so we are packing up.,en,General_Query,High
+U0082,FB1068,my credit card stopped working at the supermarket today. Everything feels up in the air for us right now.,en,Card_Services,Medium
+U0063,FB1070,بصراحة أعيد التفكير في بقائي مع هذا البنك. يوجد خصم في كشف حسابي لم أوافق عليه.,ar,Fees_Charges,Medium
+U0098,FB1008,I keep getting disappointed by this bank lately. transaction history will not load on the app.,en,App_Technical,Medium
+U0117,FB1125,I keep getting disappointed by this bank lately. which documents do I need to update my mobile number.,en,General_Query,Medium
+U0028,FB1199,gusto kong ipadala ang buong ipon ko sa pamilya ko. magulo pa ang lahat para sa amin ngayon.,tl,Remittance_Transfer,Medium
+U0004,FB1031,I wish to terminate my banking relationship with you. My family has already flown home and I follow soon.,en,Account_Closure,High
+U0034,FB1217,gusto ko lang malaman. bakit naantala ang padala ko kahapon pa.,tl,Remittance_Transfer,Low
+U0106,FB1192,app mein transaction history nahi khul rahi. aapka din shubh ho.,hi,App_Technical,Low
+U0037,FB1135,is it possible to pay off my personal loan before leaving. My family has already flown home and I follow soon.,en,Loan_Mortgage,High
+U0022,FB1226,why is my money transfer stuck since yesterday. My employer has ended my contract so we are packing up.,en,Remittance_Transfer,High
+U0033,FB1064,Whenever you get a chance. I want to send my entire savings to my family overseas.,en,Remittance_Transfer,Low
+U0110,FB1229,which documents do I need to update my mobile number. I am winding down everything here before we go.,en,General_Query,High
+U0029,FB1026,magulo pa ang lahat para sa amin ngayon. bakit naantala ang padala ko kahapon pa.,tl,Remittance_Transfer,Medium
+U0071,FB1119,يوجد خصم في كشف حسابي لم أوافق عليه. فقط أردت السؤال.,ar,Fees_Charges,Low
+U0123,FB1209,فقط أردت السؤال. هل البنك مفتوح في العطلة الرسمية.,ar,General_Query,Low
+U0089,FB1004,Many thanks. my credit card stopped working at the supermarket today.,en,Card_Services,Low
+U0101,FB1022,Honestly I am rethinking whether to keep banking here. the mobile banking keeps logging me out every minute.,en,App_Technical,Medium
+U0036,FB1177,Many thanks. why is my money transfer stuck since yesterday.,en,Remittance_Transfer,Low
+U0011,FB1062,please tell me the procedure to shut down all my accounts. Honestly I am rethinking whether to keep banking here.,en,Account_Closure,Medium
+U0115,FB1190,Everything feels up in the air for us right now. which documents do I need to update my mobile number.,en,General_Query,Medium
+U0072,FB1041,there is a deduction on my statement I never agreed to. Whenever you get a chance.,en,Fees_Charges,Low
+U0096,FB1075,I am winding down everything here before we go. transaction history will not load on the app.,en,App_Technical,High
+U0032,FB1157,I want to send my entire savings to my family overseas. Have a great day.,en,Remittance_Transfer,Low
+U0017,FB1079,please tell me the procedure to shut down all my accounts. Have a great day.,en,Account_Closure,Low
+U0088,FB1045,lagta hai kisi ne mere card ki details chura li. bas jaanna tha.,hi,Card_Services,Low
+U0002,FB1232,"sare accounts khatam karne ka process kya hai. meri naukri khatam ho gayi, hum desh chhod rahe hain.",hi,Account_Closure,High
+U0105,FB1183,the mobile banking keeps logging me out every minute. Have a great day.,en,App_Technical,Low
+U0114,FB1164,is the bank open during the public holiday. My family has already flown home and I follow soon.,en,General_Query,High
+U0122,FB1036,anong dokumento ang kailangan para palitan ang numero ko. magandang araw po.,tl,General_Query,Low
+U0010,FB1116,I wish to terminate my banking relationship with you. Everything feels up in the air for us right now.,en,Account_Closure,Medium
+U0005,FB1056,natapos na ang kontrata ko kaya uuwi na kami. ano ang proseso para tanggalin ang lahat ng account ko.,tl,Account_Closure,High
+U0039,FB1091,"har mahine ki kist ab bahut mushkil ho gayi hai. meri naukri khatam ho gayi, hum desh chhod rahe hain.",hi,Loan_Mortgage,High
+U0079,FB1209,hindi gumana ang credit card ko sa grocery kanina. magulo pa ang lahat para sa amin ngayon.,tl,Card_Services,Medium
+U0074,FB1023,My family has already flown home and I follow soon. someone may have stolen my card details please help.,en,Card_Services,High
+U0118,FB1196,Everything feels up in the air for us right now. is the bank open during the public holiday.,en,General_Query,Medium
+U0035,FB1021,Whenever you get a chance. why is my money transfer stuck since yesterday.,en,Remittance_Transfer,Low
+U0065,FB1129,abhi hamare liye sab kuch uljhan mein hai. statement mein aisa charge hai jo maine approve nahi kiya.,hi,Fees_Charges,Medium
+U0062,FB1135,there is a deduction on my statement I never agreed to. Everything feels up in the air for us right now.,en,Fees_Charges,Medium
+U0054,FB1185,Have a great day. is it possible to pay off my personal loan before leaving.,en,Loan_Mortgage,Low
+U0100,FB1167,Everything feels up in the air for us right now. the mobile banking keeps logging me out every minute.,en,App_Technical,Medium
+U0025,FB1150,Honestly I am rethinking whether to keep banking here. I want to send my entire savings to my family overseas.,en,Remittance_Transfer,Medium
+U0057,FB1213,your service charges doubled without any notice. My employer has ended my contract so we are packing up.,en,Fees_Charges,High
+U0070,FB1164,يوجد خصم في كشف حسابي لم أوافق عليه. أتمنى لكم يوما سعيدا.,ar,Fees_Charges,Low
+U0064,FB1007,I keep getting disappointed by this bank lately. there is a deduction on my statement I never agreed to.,en,Fees_Charges,Medium
+U0107,FB1010,Just wanted to ask. the mobile banking keeps logging me out every minute.,en,App_Technical,Low
+U0061,FB1185,sach kahoon to soch raha hoon yahan banking rakhoon ya nahi. statement mein aisa charge hai jo maine approve nahi kiya.,hi,Fees_Charges,Medium
+U0020,FB1033,I want to send my entire savings to my family overseas. My family has already flown home and I follow soon.,en,Remittance_Transfer,High
+U0007,FB1046,I wish to terminate my banking relationship with you. I keep getting disappointed by this bank lately.,en,Account_Closure,Medium
+U0056,FB1074,"meri family wapas ja chuki hai, main bhi jald jaunga. statement mein aisa charge hai jo maine approve nahi kiya.",hi,Fees_Charges,High
+U0076,FB1075,أعتقد أن بيانات بطاقتي قد سُرقت. انتهى عقد عملي وسنغادر البلاد.,ar,Card_Services,High
+U0001,FB1018,please tell me the procedure to shut down all my accounts. My employer has ended my contract so we are packing up.,en,Account_Closure,High
+U0045,FB1058,sa totoo lang iniisip ko kung itutuloy ko pa dito. hindi ko na kaya ang buwanang hulog ngayon.,tl,Loan_Mortgage,Medium
+U0008,FB1182,Everything feels up in the air for us right now. please tell me the procedure to shut down all my accounts.,en,Account_Closure,Medium
+U0049,FB1111,هل يمكن سداد قرضي الشخصي قبل السفر. فقط أردت السؤال.,ar,Loan_Mortgage,Low
+U0125,FB1000,Whenever you get a chance. is the bank open during the public holiday.,en,General_Query,Low
+U0103,FB1183,تطبيق الهاتف يخرجني من حسابي كل دقيقة. أتمنى لكم يوما سعيدا.,ar,App_Technical,Low
+U0040,FB1201,"har mahine ki kist ab bahut mushkil ho gayi hai. meri family wapas ja chuki hai, main bhi jald jaunga.",hi,Loan_Mortgage,High
+U0009,FB1174,I keep getting disappointed by this bank lately. please tell me the procedure to shut down all my accounts.,en,Account_Closure,Medium
+U0091,FB1213,I am winding down everything here before we go. transaction history will not load on the app.,en,App_Technical,High
+U0043,FB1177,magulo pa ang lahat para sa amin ngayon. hindi ko na kaya ang buwanang hulog ngayon.,tl,Loan_Mortgage,Medium
+U0111,FB1064,which documents do I need to update my mobile number. I am winding down everything here before we go.,en,General_Query,High
+U0090,FB1114,فقط أردت السؤال. توقفت بطاقتي الائتمانية عن العمل اليوم.,ar,Card_Services,Low
+U0073,FB1131,hindi gumana ang credit card ko sa grocery kanina. nakauwi na ang pamilya ko at susunod na ako.,tl,Card_Services,High
+U0120,FB1129,Everything feels up in the air for us right now. is the bank open during the public holiday.,en,General_Query,Medium
+U0015,FB1089,Many thanks. please tell me the procedure to shut down all my accounts.,en,Account_Closure,Low
+U0058,FB1208,your service charges doubled without any notice. My employer has ended my contract so we are packing up.,en,Fees_Charges,High
+U0093,FB1013,the mobile banking keeps logging me out every minute. My employer has ended my contract so we are packing up.,en,App_Technical,High
+U0104,FB1126,app mein transaction history nahi khul rahi. bas jaanna tha.,hi,App_Technical,Low
+U0024,FB1045,nakauwi na ang pamilya ko at susunod na ako. bakit naantala ang padala ko kahapon pa.,tl,Remittance_Transfer,High
+U0084,FB1086,Honestly I am rethinking whether to keep banking here. someone may have stolen my card details please help.,en,Card_Services,Medium
+U0068,FB1100,magandang araw po. nadoble ang singil ninyo nang walang abiso.,tl,Fees_Charges,Low
+U0119,FB1239,which documents do I need to update my mobile number. Everything feels up in the air for us right now.,en,General_Query,Medium
+U0026,FB1136,Honestly I am rethinking whether to keep banking here. why is my money transfer stuck since yesterday.,en,Remittance_Transfer,Medium
+U0069,FB1054,Just wanted to ask. there is a deduction on my statement I never agreed to.,en,Fees_Charges,Low
+U0048,FB1200,kya main jaane se pehle apna loan chuka sakta hoon. sach kahoon to soch raha hoon yahan banking rakhoon ya nahi.,hi,Loan_Mortgage,Medium

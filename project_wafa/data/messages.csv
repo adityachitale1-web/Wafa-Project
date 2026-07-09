@@ -1,0 +1,253 @@
+message_id,customer_id,text,language,issue_type,churn_signal
+M0166,FB1195,mera card foreign mein decline ho gaya. main service se pareshan hoon.,hi,Card_Services,Medium
+M0007,FB1186,how do I close my salary account. I have already resigned and am moving back home.,en,Account_Closure,High
+M0112,FB1069,We are relocating for good. refund the hidden fee please.,en,Fees_Charges,High
+M0173,FB1159,my card was declined abroad. Just checking.,en,Card_Services,Low
+M0116,FB1097,We are relocating for good. these charges are unfair.,en,Fees_Charges,High
+M0184,FB1123,سأغادر الإمارات الشهر القادم. لا يصلني رمز التحقق.,ar,App_Technical,High
+M0200,FB1036,app baar baar crash ho raha hai. main service se pareshan hoon.,hi,App_Technical,Medium
+M0236,FB1060,what are the branch timings. I am very frustrated with the service lately.,en,General_Query,Medium
+M0010,FB1221,كيف أغلق حساب الراتب الخاص بي. سأغادر الإمارات الشهر القادم.,ar,Account_Closure,High
+M0031,FB1121,Just checking. what documents are needed to close accounts.,en,Account_Closure,Low
+M0061,FB1026,أحتاج تحويل أموالي إلى الخارج. مجرد استفسار.,ar,Remittance_Transfer,Low
+M0219,FB1095,كيف أحدث الهوية الإماراتية. نحن ننتقل نهائيا.,ar,General_Query,High
+M0227,FB1060,We are relocating for good. how do I update my Emirates ID.,en,General_Query,High
+M0160,FB1057,dismayado ako sa serbisyo. na-decline ang card ko sa abroad.,tl,Card_Services,Medium
+M0069,FB1037,kailangan kong ipadala ang pera ko sa Pilipinas. nagtatanong lang po.,tl,Remittance_Transfer,Low
+M0149,FB1047,نحن ننتقل نهائيا. أريد إيقاف بطاقتي المفقودة.,ar,Card_Services,High
+M0197,FB1075,laging nagko-crash ang app. dismayado ako sa serbisyo.,tl,App_Technical,Medium
+M0016,FB1016,I am very frustrated with the service lately. I want to close my account.,en,Account_Closure,Medium
+M0102,FB1140,my EMI is too high now. No rush at all.,en,Loan_Mortgage,Low
+M0025,FB1195,I want to close my account. Appreciate your help.,en,Account_Closure,Low
+M0087,FB1178,I may have to make some big decisions soon. my EMI is too high now.,en,Loan_Mortgage,Medium
+M0020,FB1035,main service se pareshan hoon. salary account kaise band hoga.,hi,Account_Closure,Medium
+M0118,FB1120,these charges are unfair. I have already resigned and am moving back home.,en,Fees_Charges,High
+M0125,FB1050,هذه الرسوم غير عادلة. أنا محبط جدا من الخدمة.,ar,Fees_Charges,Medium
+M0034,FB1115,paano isara ang aking account. nagtatanong lang po.,tl,Account_Closure,Low
+M0243,FB1162,شكرا مقدما. ما هي أوقات عمل الفرع.,ar,General_Query,Low
+M0187,FB1207,I cannot see my statements online. This is my final month here.,en,App_Technical,High
+M0220,FB1226,This is my final month here. what are the branch timings.,en,General_Query,High
+M0011,FB1093,how do I close my salary account. This is my final month here.,en,Account_Closure,High
+M0163,FB1126,I need to block my lost card. I am very frustrated with the service lately.,en,Card_Services,Medium
+M0141,FB1135,مجرد استفسار. هذه الرسوم غير عادلة.,ar,Fees_Charges,Low
+M0097,FB1001,what happens to my loan if I leave the UAE. Just checking.,en,Loan_Mortgage,Low
+M0126,FB1197,Things are uncertain for my family. refund the hidden fee please.,en,Fees_Charges,Medium
+M0083,FB1147,I am leaving the UAE next month. my EMI is too high now.,en,Loan_Mortgage,High
+M0214,FB1123,the app keeps crashing when I log in. Appreciate your help.,en,App_Technical,Low
+M0026,FB1129,I want to close my account. Appreciate your help.,en,Account_Closure,Low
+M0110,FB1090,lilipat na kami nang tuluyan. bakit may bayad na ganito.,tl,Fees_Charges,High
+M0019,FB1109,what documents are needed to close accounts. I am very frustrated with the service lately.,en,Account_Closure,Medium
+M0206,FB1168,لا يصلني رمز التحقق. شكرا مقدما.,ar,App_Technical,Low
+M0183,FB1214,the app keeps crashing when I log in. I have already resigned and am moving back home.,en,App_Technical,High
+M0068,FB1176,أحتاج تحويل أموالي إلى الخارج. شكرا مقدما.,ar,Remittance_Transfer,Low
+M0133,FB1212,هذه الرسوم غير عادلة. مجرد استفسار.,ar,Fees_Charges,Low
+M0157,FB1104,I am not sure about my plans here anymore. my card was declined abroad.,en,Card_Services,Medium
+M0144,FB1189,Just checking. refund the hidden fee please.,en,Fees_Charges,Low
+M0046,FB1124,main agle mahine UAE chhod raha hoon. mujhe apne paise India bhejne hain.,hi,Remittance_Transfer,High
+M0179,FB1069,increase my card limit. Appreciate your help.,en,Card_Services,Low
+M0017,FB1127,I am very frustrated with the service lately. what documents are needed to close accounts.,en,Account_Closure,Medium
+M0067,FB1109,kailangan kong ipadala ang pera ko sa Pilipinas. nagtatanong lang po.,tl,Remittance_Transfer,Low
+M0143,FB1049,Just checking. these charges are unfair.,en,Fees_Charges,Low
+M0176,FB1079,increase my card limit. Just checking.,en,Card_Services,Low
+M0039,FB1206,فشلت حوالتي المالية. سأغادر الإمارات الشهر القادم.,ar,Remittance_Transfer,High
+M0137,FB1132,refund the hidden fee please. Appreciate your help.,en,Fees_Charges,Low
+M0056,FB1165,I may have to make some big decisions soon. how long does an international transfer take.,en,Remittance_Transfer,Medium
+M0205,FB1091,dhanyavaad. app baar baar crash ho raha hai.,hi,App_Technical,Low
+M0217,FB1101,نحن ننتقل نهائيا. كيف أحدث الهوية الإماراتية.,ar,General_Query,High
+M0148,FB1003,نحن ننتقل نهائيا. تم رفض بطاقتي في الخارج.,ar,Card_Services,High
+M0145,FB1213,increase my card limit. I have already resigned and am moving back home.,en,Card_Services,High
+M0221,FB1162,paano i-update ang Emirates ID ko. aalis na ako ng UAE sa susunod na buwan.,tl,General_Query,High
+M0194,FB1060,لا يصلني رمز التحقق. لست متأكدا من خططي هنا.,ar,App_Technical,Medium
+M0250,FB1142,what are the branch timings. Appreciate your help.,en,General_Query,Low
+M0171,FB1064,bas pooch raha tha. mera card foreign mein decline ho gaya.,hi,Card_Services,Low
+M0127,FB1144,refund the hidden fee please. I am not sure about my plans here anymore.,en,Fees_Charges,Medium
+M0098,FB1205,bas pooch raha tha. agar main UAE chhod doon to loan ka kya hoga.,hi,Loan_Mortgage,Low
+M0159,FB1059,I may have to make some big decisions soon. I need to block my lost card.,en,Card_Services,Medium
+M0080,FB1029,my EMI is too high now. I have already resigned and am moving back home.,en,Loan_Mortgage,High
+M0248,FB1095,how do I update my Emirates ID. Appreciate your help.,en,General_Query,Low
+M0239,FB1056,I am not sure about my plans here anymore. do you have a branch in Sharjah.,en,General_Query,Medium
+M0199,FB1156,لست متأكدا من خططي هنا. التطبيق يتعطل عند تسجيل الدخول.,ar,App_Technical,Medium
+M0113,FB1173,This is my final month here. why was I charged this maintenance fee.,en,Fees_Charges,High
+M0074,FB1236,I am leaving the UAE next month. can I settle my mortgage early.,en,Loan_Mortgage,High
+M0070,FB1238,Appreciate your help. I need to transfer all my funds abroad.,en,Remittance_Transfer,Low
+M0120,FB1063,why was I charged this maintenance fee. I am leaving the UAE next month.,en,Fees_Charges,High
+M0076,FB1056,هل يمكنني سداد الرهن مبكرا. سأغادر الإمارات الشهر القادم.,ar,Loan_Mortgage,High
+M0114,FB1159,yeh charges kyun lage hain. hum hamesha ke liye ja rahe hain.,hi,Fees_Charges,High
+M0119,FB1089,refund the hidden fee please. I am leaving the UAE next month.,en,Fees_Charges,High
+M0121,FB1121,Things are uncertain for my family. why was I charged this maintenance fee.,en,Fees_Charges,Medium
+M0240,FB1007,dismayado ako sa serbisyo. ano ang oras ng branch.,tl,General_Query,Medium
+M0085,FB1170,main service se pareshan hoon. agar main UAE chhod doon to loan ka kya hoga.,hi,Loan_Mortgage,Medium
+M0030,FB1208,أريد إغلاق حسابي. شكرا مقدما.,ar,Account_Closure,Low
+M0169,FB1219,I need to block my lost card. Appreciate your help.,en,Card_Services,Low
+M0168,FB1120,kailangan kong i-block ang card ko. dismayado ako sa serbisyo.,tl,Card_Services,Medium
+M0234,FB1037,branch timing kya hai. main service se pareshan hoon.,hi,General_Query,Medium
+M0006,FB1097,I have already resigned and am moving back home. I want to close my account.,en,Account_Closure,High
+M0057,FB1159,I am not sure about my plans here anymore. how long does an international transfer take.,en,Remittance_Transfer,Medium
+M0177,FB1215,شكرا مقدما. أريد إيقاف بطاقتي المفقودة.,ar,Card_Services,Low
+M0228,FB1165,branch timing kya hai. hum hamesha ke liye ja rahe hain.,hi,General_Query,High
+M0109,FB1099,why was I charged this maintenance fee. We are relocating for good.,en,Fees_Charges,High
+M0066,FB1163,I need to transfer all my funds abroad. Appreciate your help.,en,Remittance_Transfer,Low
+M0138,FB1125,bakit may bayad na ganito. salamat po.,tl,Fees_Charges,Low
+M0128,FB1017,hidden fee wapas karo. main service se pareshan hoon.,hi,Fees_Charges,Medium
+M0216,FB1185,laging nagko-crash ang app. salamat po.,tl,App_Technical,Low
+M0151,FB1207,I am leaving the UAE next month. my card was declined abroad.,en,Card_Services,High
+M0032,FB1155,gusto ko nang isara ang account ko. nagtatanong lang po.,tl,Account_Closure,Low
+M0013,FB1062,gusto ko nang isara ang account ko. hindi ako sigurado sa mga plano ko.,tl,Account_Closure,Medium
+M0036,FB1161,شكرا مقدما. أريد إغلاق حسابي.,ar,Account_Closure,Low
+M0029,FB1224,salamat po. paano isara ang aking account.,tl,Account_Closure,Low
+M0043,FB1046,This is my final month here. I need to transfer all my funds abroad.,en,Remittance_Transfer,High
+M0222,FB1011,hum hamesha ke liye ja rahe hain. Emirates ID kaise update karein.,hi,General_Query,High
+M0023,FB1029,paano isara ang aking account. hindi ako sigurado sa mga plano ko.,tl,Account_Closure,Medium
+M0094,FB1037,can I settle my mortgage early. Things are uncertain for my family.,en,Loan_Mortgage,Medium
+M0185,FB1082,This is my final month here. OTP never arrives.,en,App_Technical,High
+M0105,FB1182,Appreciate your help. what happens to my loan if I leave the UAE.,en,Loan_Mortgage,Low
+M0052,FB1172,I need to transfer all my funds abroad. I am not sure about my plans here anymore.,en,Remittance_Transfer,Medium
+M0115,FB1109,I am leaving the UAE next month. these charges are unfair.,en,Fees_Charges,High
+M0096,FB1098,can I settle my mortgage early. Things are uncertain for my family.,en,Loan_Mortgage,Medium
+M0241,FB1027,No rush at all. how do I update my Emirates ID.,en,General_Query,Low
+M0202,FB1040,I cannot see my statements online. I am very frustrated with the service lately.,en,App_Technical,Medium
+M0077,FB1203,I have already resigned and am moving back home. can I settle my mortgage early.,en,Loan_Mortgage,High
+M0042,FB1027,how long does an international transfer take. I have already resigned and am moving back home.,en,Remittance_Transfer,High
+M0237,FB1032,لست متأكدا من خططي هنا. ما هي أوقات عمل الفرع.,ar,General_Query,Medium
+M0155,FB1189,increase my card limit. I am leaving the UAE next month.,en,Card_Services,High
+M0079,FB1130,I have already resigned and am moving back home. what happens to my loan if I leave the UAE.,en,Loan_Mortgage,High
+M0232,FB1141,ano ang oras ng branch. hindi ako sigurado sa mga plano ko.,tl,General_Query,Medium
+M0027,FB1138,أريد إغلاق حسابي. مجرد استفسار.,ar,Account_Closure,Low
+M0244,FB1135,كيف أحدث الهوية الإماراتية. مجرد استفسار.,ar,General_Query,Low
+M0198,FB1105,Things are uncertain for my family. I cannot see my statements online.,en,App_Technical,Medium
+M0191,FB1200,We are relocating for good. OTP never arrives.,en,App_Technical,High
+M0140,FB1103,Thanks in advance. why was I charged this maintenance fee.,en,Fees_Charges,Low
+M0001,FB1035,نحن ننتقل نهائيا. أريد إغلاق حسابي.,ar,Account_Closure,High
+M0003,FB1183,what documents are needed to close accounts. I am leaving the UAE next month.,en,Account_Closure,High
+M0078,FB1102,agar main UAE chhod doon to loan ka kya hoga. main agle mahine UAE chhod raha hoon.,hi,Loan_Mortgage,High
+M0047,FB1000,I am leaving the UAE next month. how long does an international transfer take.,en,Remittance_Transfer,High
+M0101,FB1228,my EMI is too high now. Appreciate your help.,en,Loan_Mortgage,Low
+M0246,FB1227,Just checking. do you have a branch in Sharjah.,en,General_Query,Low
+M0153,FB1097,أريد إيقاف بطاقتي المفقودة. سأغادر الإمارات الشهر القادم.,ar,Card_Services,High
+M0182,FB1129,OTP nahi aa raha. hum hamesha ke liye ja rahe hain.,hi,App_Technical,High
+M0091,FB1172,أنا محبط جدا من الخدمة. هل يمكنني سداد الرهن مبكرا.,ar,Loan_Mortgage,Medium
+M0086,FB1076,masyadong mataas ang hulog ko. hindi ako sigurado sa mga plano ko.,tl,Loan_Mortgage,Medium
+M0178,FB1039,kailangan kong i-block ang card ko. salamat po.,tl,Card_Services,Low
+M0099,FB1234,masyadong mataas ang hulog ko. salamat po.,tl,Loan_Mortgage,Low
+M0037,FB1018,I need to transfer all my funds abroad. I am leaving the UAE next month.,en,Remittance_Transfer,High
+M0062,FB1027,nagtatanong lang po. kailangan kong ipadala ang pera ko sa Pilipinas.,tl,Remittance_Transfer,Low
+M0165,FB1172,I am not sure about my plans here anymore. I need to block my lost card.,en,Card_Services,Medium
+M0142,FB1116,Appreciate your help. refund the hidden fee please.,en,Fees_Charges,Low
+M0012,FB1179,how do I close my salary account. We are relocating for good.,en,Account_Closure,High
+M0247,FB1186,No rush at all. how do I update my Emirates ID.,en,General_Query,Low
+M0201,FB1170,I am very frustrated with the service lately. OTP never arrives.,en,App_Technical,Medium
+M0028,FB1028,nagtatanong lang po. gusto ko nang isara ang account ko.,tl,Account_Closure,Low
+M0156,FB1020,We are relocating for good. my card was declined abroad.,en,Card_Services,High
+M0005,FB1087,mujhe apna account band karna hai. main agle mahine UAE chhod raha hoon.,hi,Account_Closure,High
+M0123,FB1041,refund the hidden fee please. I am not sure about my plans here anymore.,en,Fees_Charges,Medium
+M0033,FB1102,I want to close my account. Just checking.,en,Account_Closure,Low
+M0147,FB1013,نحن ننتقل نهائيا. تم رفض بطاقتي في الخارج.,ar,Card_Services,High
+M0181,FB1070,the app keeps crashing when I log in. We are relocating for good.,en,App_Technical,High
+M0139,FB1125,لماذا خصمتم هذه الرسوم. مجرد استفسار.,ar,Fees_Charges,Low
+M0063,FB1053,مجرد استفسار. أحتاج تحويل أموالي إلى الخارج.,ar,Remittance_Transfer,Low
+M0136,FB1066,Just checking. these charges are unfair.,en,Fees_Charges,Low
+M0129,FB1210,these charges are unfair. I am not sure about my plans here anymore.,en,Fees_Charges,Medium
+M0229,FB1031,I am very frustrated with the service lately. how do I update my Emirates ID.,en,General_Query,Medium
+M0225,FB1167,paano i-update ang Emirates ID ko. aalis na ako ng UAE sa susunod na buwan.,tl,General_Query,High
+M0071,FB1063,bas pooch raha tha. mujhe apne paise India bhejne hain.,hi,Remittance_Transfer,Low
+M0195,FB1111,لا يصلني رمز التحقق. لست متأكدا من خططي هنا.,ar,App_Technical,Medium
+M0065,FB1212,kailangan kong ipadala ang pera ko sa Pilipinas. salamat po.,tl,Remittance_Transfer,Low
+M0045,FB1138,mujhe apne paise India bhejne hain. main agle mahine UAE chhod raha hoon.,hi,Remittance_Transfer,High
+M0251,FB1105,do you have a branch in Sharjah. Appreciate your help.,en,General_Query,Low
+M0041,FB1165,how long does an international transfer take. I am leaving the UAE next month.,en,Remittance_Transfer,High
+M0124,FB1147,bakit may bayad na ganito. hindi ako sigurado sa mga plano ko.,tl,Fees_Charges,Medium
+M0154,FB1109,I need to block my lost card. I have already resigned and am moving back home.,en,Card_Services,High
+M0024,FB1111,أنا محبط جدا من الخدمة. كيف أغلق حساب الراتب الخاص بي.,ar,Account_Closure,Medium
+M0213,FB1233,OTP never arrives. Appreciate your help.,en,App_Technical,Low
+M0186,FB1198,hum hamesha ke liye ja rahe hain. app baar baar crash ho raha hai.,hi,App_Technical,High
+M0082,FB1201,This is my final month here. my EMI is too high now.,en,Loan_Mortgage,High
+M0040,FB1090,I need to transfer all my funds abroad. I am leaving the UAE next month.,en,Remittance_Transfer,High
+M0212,FB1044,I cannot see my statements online. Appreciate your help.,en,App_Technical,Low
+M0048,FB1178,lilipat na kami nang tuluyan. nabigo ang remittance ko.,tl,Remittance_Transfer,High
+M0095,FB1196,what happens to my loan if I leave the UAE. I may have to make some big decisions soon.,en,Loan_Mortgage,Medium
+M0193,FB1160,OTP never arrives. I may have to make some big decisions soon.,en,App_Technical,Medium
+M0162,FB1176,main service se pareshan hoon. card block karna hai.,hi,Card_Services,Medium
+M0044,FB1220,I am leaving the UAE next month. I need to transfer all my funds abroad.,en,Remittance_Transfer,High
+M0146,FB1003,I have already resigned and am moving back home. my card was declined abroad.,en,Card_Services,High
+M0174,FB1140,dhanyavaad. card block karna hai.,hi,Card_Services,Low
+M0004,FB1071,سأغادر الإمارات الشهر القادم. كيف أغلق حساب الراتب الخاص بي.,ar,Account_Closure,High
+M0106,FB1138,Appreciate your help. can I settle my mortgage early.,en,Loan_Mortgage,Low
+M0054,FB1107,my remittance to home country failed. I am not sure about my plans here anymore.,en,Remittance_Transfer,Medium
+M0134,FB1118,nagtatanong lang po. hindi makatarungan ang singil.,tl,Fees_Charges,Low
+M0230,FB1164,paano i-update ang Emirates ID ko. hindi ako sigurado sa mga plano ko.,tl,General_Query,Medium
+M0196,FB1076,dismayado ako sa serbisyo. laging nagko-crash ang app.,tl,App_Technical,Medium
+M0235,FB1221,hindi ako sigurado sa mga plano ko. paano i-update ang Emirates ID ko.,tl,General_Query,Medium
+M0050,FB1149,dismayado ako sa serbisyo. kailangan kong ipadala ang pera ko sa Pilipinas.,tl,Remittance_Transfer,Medium
+M0164,FB1188,increase my card limit. I am not sure about my plans here anymore.,en,Card_Services,Medium
+M0081,FB1067,EMI bahut zyada hai. main agle mahine UAE chhod raha hoon.,hi,Loan_Mortgage,High
+M0035,FB1150,Thanks in advance. I want to close my account.,en,Account_Closure,Low
+M0209,FB1184,the app keeps crashing when I log in. Appreciate your help.,en,App_Technical,Low
+M0008,FB1075,This is my final month here. I want to close my account.,en,Account_Closure,High
+M0172,FB1138,I need to block my lost card. Thanks in advance.,en,Card_Services,Low
+M0111,FB1188,these charges are unfair. This is my final month here.,en,Fees_Charges,High
+M0092,FB1072,can I settle my mortgage early. Things are uncertain for my family.,en,Loan_Mortgage,Medium
+M0084,FB1236,This is my final month here. what happens to my loan if I leave the UAE.,en,Loan_Mortgage,High
+M0226,FB1071,how do I update my Emirates ID. This is my final month here.,en,General_Query,High
+M0231,FB1062,ما هي أوقات عمل الفرع. لست متأكدا من خططي هنا.,ar,General_Query,Medium
+M0090,FB1148,Things are uncertain for my family. can I settle my mortgage early.,en,Loan_Mortgage,Medium
+M0009,FB1011,salary account kaise band hoga. main agle mahine UAE chhod raha hoon.,hi,Account_Closure,High
+M0014,FB1163,how do I close my salary account. I am very frustrated with the service lately.,en,Account_Closure,Medium
+M0060,FB1206,how long does an international transfer take. I am very frustrated with the service lately.,en,Remittance_Transfer,Medium
+M0218,FB1172,I am leaving the UAE next month. do you have a branch in Sharjah.,en,General_Query,High
+M0132,FB1211,dismayado ako sa serbisyo. hindi makatarungan ang singil.,tl,Fees_Charges,Medium
+M0018,FB1035,I may have to make some big decisions soon. what documents are needed to close accounts.,en,Account_Closure,Medium
+M0167,FB1046,card block karna hai. main service se pareshan hoon.,hi,Card_Services,Medium
+M0073,FB1207,what happens to my loan if I leave the UAE. We are relocating for good.,en,Loan_Mortgage,High
+M0223,FB1060,lilipat na kami nang tuluyan. paano i-update ang Emirates ID ko.,tl,General_Query,High
+M0135,FB1217,مجرد استفسار. هذه الرسوم غير عادلة.,ar,Fees_Charges,Low
+M0207,FB1190,the app keeps crashing when I log in. Thanks in advance.,en,App_Technical,Low
+M0233,FB1037,Things are uncertain for my family. what are the branch timings.,en,General_Query,Medium
+M0064,FB1064,أحتاج تحويل أموالي إلى الخارج. مجرد استفسار.,ar,Remittance_Transfer,Low
+M0055,FB1183,أنا محبط جدا من الخدمة. فشلت حوالتي المالية.,ar,Remittance_Transfer,Medium
+M0108,FB1138,مجرد استفسار. ماذا يحدث لقرضي إذا غادرت الإمارات.,ar,Loan_Mortgage,Low
+M0051,FB1130,Things are uncertain for my family. my remittance to home country failed.,en,Remittance_Transfer,Medium
+M0210,FB1165,app baar baar crash ho raha hai. dhanyavaad.,hi,App_Technical,Low
+M0175,FB1124,I need to block my lost card. No rush at all.,en,Card_Services,Low
+M0242,FB1082,how do I update my Emirates ID. Thanks in advance.,en,General_Query,Low
+M0190,FB1036,hum hamesha ke liye ja rahe hain. app baar baar crash ho raha hai.,hi,App_Technical,High
+M0249,FB1021,salamat po. paano i-update ang Emirates ID ko.,tl,General_Query,Low
+M0208,FB1090,I cannot see my statements online. Just checking.,en,App_Technical,Low
+M0224,FB1171,hum hamesha ke liye ja rahe hain. branch timing kya hai.,hi,General_Query,High
+M0170,FB1102,No rush at all. I need to block my lost card.,en,Card_Services,Low
+M0059,FB1094,how long does an international transfer take. I am not sure about my plans here anymore.,en,Remittance_Transfer,Medium
+M0049,FB1055,hindi ako sigurado sa mga plano ko. nabigo ang remittance ko.,tl,Remittance_Transfer,Medium
+M0089,FB1213,أنا محبط جدا من الخدمة. ماذا يحدث لقرضي إذا غادرت الإمارات.,ar,Loan_Mortgage,Medium
+M0022,FB1152,لست متأكدا من خططي هنا. كيف أغلق حساب الراتب الخاص بي.,ar,Account_Closure,Medium
+M0058,FB1129,kailangan kong ipadala ang pera ko sa Pilipinas. hindi ako sigurado sa mga plano ko.,tl,Remittance_Transfer,Medium
+M0204,FB1098,أنا محبط جدا من الخدمة. لا يصلني رمز التحقق.,ar,App_Technical,Medium
+M0161,FB1042,لست متأكدا من خططي هنا. أريد إيقاف بطاقتي المفقودة.,ar,Card_Services,Medium
+M0245,FB1179,No rush at all. do you have a branch in Sharjah.,en,General_Query,Low
+M0188,FB1009,We are relocating for good. OTP never arrives.,en,App_Technical,High
+M0192,FB1218,hindi dumarating ang OTP. lilipat na kami nang tuluyan.,tl,App_Technical,High
+M0130,FB1212,these charges are unfair. I am very frustrated with the service lately.,en,Fees_Charges,Medium
+M0038,FB1033,This is my final month here. how long does an international transfer take.,en,Remittance_Transfer,High
+M0158,FB1059,I may have to make some big decisions soon. increase my card limit.,en,Card_Services,Medium
+M0238,FB1199,لست متأكدا من خططي هنا. ما هي أوقات عمل الفرع.,ar,General_Query,Medium
+M0002,FB1023,نحن ننتقل نهائيا. أريد إغلاق حسابي.,ar,Account_Closure,High
+M0053,FB1145,mera transfer fail ho gaya. mujhe apne plans ka pata nahi.,hi,Remittance_Transfer,Medium
+M0150,FB1016,lilipat na kami nang tuluyan. kailangan kong i-block ang card ko.,tl,Card_Services,High
+M0131,FB1133,I may have to make some big decisions soon. why was I charged this maintenance fee.,en,Fees_Charges,Medium
+M0152,FB1030,أريد إيقاف بطاقتي المفقودة. سأغادر الإمارات الشهر القادم.,ar,Card_Services,High
+M0104,FB1133,my EMI is too high now. Appreciate your help.,en,Loan_Mortgage,Low
+M0100,FB1170,EMI bahut zyada hai. dhanyavaad.,hi,Loan_Mortgage,Low
+M0117,FB1225,I have already resigned and am moving back home. these charges are unfair.,en,Fees_Charges,High
+M0088,FB1097,Things are uncertain for my family. what happens to my loan if I leave the UAE.,en,Loan_Mortgage,Medium
+M0203,FB1108,I cannot see my statements online. I am very frustrated with the service lately.,en,App_Technical,Medium
+M0075,FB1201,We are relocating for good. can I settle my mortgage early.,en,Loan_Mortgage,High
+M0215,FB1119,hindi dumarating ang OTP. nagtatanong lang po.,tl,App_Technical,Low
+M0211,FB1187,I cannot see my statements online. Thanks in advance.,en,App_Technical,Low
+M0122,FB1196,لماذا خصمتم هذه الرسوم. أنا محبط جدا من الخدمة.,ar,Fees_Charges,Medium
+M0252,FB1184,do you have a branch in Sharjah. No rush at all.,en,General_Query,Low
+M0021,FB1039,I want to close my account. I am not sure about my plans here anymore.,en,Account_Closure,Medium
+M0189,FB1223,OTP never arrives. I have already resigned and am moving back home.,en,App_Technical,High
+M0072,FB1191,فشلت حوالتي المالية. مجرد استفسار.,ar,Remittance_Transfer,Low
+M0107,FB1039,Just checking. what happens to my loan if I leave the UAE.,en,Loan_Mortgage,Low
+M0015,FB1198,أريد إغلاق حسابي. أنا محبط جدا من الخدمة.,ar,Account_Closure,Medium
+M0093,FB1192,I am very frustrated with the service lately. my EMI is too high now.,en,Loan_Mortgage,Medium
+M0180,FB1141,No rush at all. I need to block my lost card.,en,Card_Services,Low
+M0103,FB1192,No rush at all. what happens to my loan if I leave the UAE.,en,Loan_Mortgage,Low

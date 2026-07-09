@@ -1,0 +1,108 @@
+{
+  "summary": {
+    "llm_language_success": {
+      "en": 2,
+      "ar": 0,
+      "hi": 0,
+      "tl": 0
+    },
+    "customer_always_answered_in_own_language": true
+  },
+  "runs": {
+    "fee_waiver/en": {
+      "llm_wrote_customer_language": true,
+      "guardrail_flags": [
+        "unfilled placeholders: [\"[Customer's Name]\", '[Your Full Name]', '[Falcon Bank Customer Care Team]']"
+      ],
+      "served_by": "template",
+      "served_language": "en",
+      "served_language_verified": true,
+      "seconds": 47.6,
+      "draft_preview": "Dear customer, you are right to raise this, and we are sorry for the frustration. We have reviewed your account and will waive the fee of AE"
+    },
+    "fee_waiver/ar": {
+      "llm_wrote_customer_language": false,
+      "guardrail_flags": [
+        "unfilled placeholders: [\"[Customer's Name]\", '[Your Contact Information]', '[Your Full Name]']",
+        "language mismatch: wanted Arabic, draft came out in English"
+      ],
+      "served_by": "template",
+      "served_language": "ar",
+      "served_language_verified": true,
+      "seconds": 22.9,
+      "draft_preview": "عميلنا العزيز، أنتم محقون في ملاحظتكم ونعتذر عن الإزعاج. راجعنا حسابكم وسنعفيكم من الرسوم البالغة 200 درهم. علاقتكم تهمنا — إذا كان هناك أي "
+    },
+    "fee_waiver/hi": {
+      "llm_wrote_customer_language": false,
+      "guardrail_flags": [
+        "unfilled placeholders: [\"[Customer's Name]\", '[Your Name]', '[Falcon Bank Customer Care]']",
+        "language mismatch: wanted Hindi (romanized), draft came out in English"
+      ],
+      "served_by": "template",
+      "served_language": "hi",
+      "served_language_verified": true,
+      "seconds": 23.6,
+      "draft_preview": "Priya customer, aapki baat sahi hai aur pareshani ke liye hum maafi chahte hain. Humne aapka account check kiya hai aur AED 200 ki fee waive"
+    },
+    "fee_waiver/tl": {
+      "llm_wrote_customer_language": false,
+      "guardrail_flags": [
+        "unfilled placeholders: [\"[Customer's Name]\", '[Your Full Name]', '[Falcon Bank Customer Care]']",
+        "language mismatch: wanted Tagalog, draft came out in English"
+      ],
+      "served_by": "template",
+      "served_language": "tl",
+      "served_language_verified": true,
+      "seconds": 22.0,
+      "draft_preview": "Mahal naming customer, tama po kayo at humihingi kami ng paumanhin sa abala. Nasuri na namin ang inyong account at iwe-waive namin ang bayar"
+    },
+    "dignified_goodbye/en": {
+      "llm_wrote_customer_language": true,
+      "guardrail_flags": [
+        "unfilled placeholders: [\"[Customer's Name]\", '[Your Name]', '[Falcon Bank UAE Customer Care]']",
+        "retention pressure in a goodbye message"
+      ],
+      "served_by": "template",
+      "served_language": "en",
+      "served_language_verified": true,
+      "seconds": 19.1,
+      "draft_preview": "Dear customer, thank you for the years you have banked with Falcon Bank. We understand you are relocating, and we want to make this easy: we"
+    },
+    "dignified_goodbye/ar": {
+      "llm_wrote_customer_language": false,
+      "guardrail_flags": [
+        "unfilled placeholders: [\"[Customer's Name]\", '[Falcon Bank Customer Care]']",
+        "language mismatch: wanted Arabic, draft came out in English"
+      ],
+      "served_by": "template",
+      "served_language": "ar",
+      "served_language_verified": true,
+      "seconds": 22.4,
+      "draft_preview": "عميلنا العزيز، شكرًا لسنوات ثقتكم في بنك فالكون. نتفهم أنكم تستعدون لمغادرة الإمارات، ونريد أن نجعل هذه الخطوة سهلة: سنساعدكم في إغلاق حسابا"
+    },
+    "dignified_goodbye/hi": {
+      "llm_wrote_customer_language": false,
+      "guardrail_flags": [
+        "unfilled placeholders: [\"[Customer's Name]\", '[Falcon Bank Customer Care]']",
+        "language mismatch: wanted Hindi (romanized), draft came out in English"
+      ],
+      "served_by": "template",
+      "served_language": "hi",
+      "served_language_verified": true,
+      "seconds": 17.0,
+      "draft_preview": "Priya customer, Falcon Bank ke saath itne saalon ke bharose ke liye dhanyavaad. Hum samajhte hain ki aap UAE chhod rahe hain, aur hum yeh sa"
+    },
+    "dignified_goodbye/tl": {
+      "llm_wrote_customer_language": false,
+      "guardrail_flags": [
+        "unfilled placeholders: [\"[Customer's Name]\", '[Your Name]', '[Falcon Bank Customer Care]']",
+        "language mismatch: wanted Tagalog, draft came out in English"
+      ],
+      "served_by": "template",
+      "served_language": "tl",
+      "served_language_verified": true,
+      "seconds": 19.3,
+      "draft_preview": "Mahal naming customer, maraming salamat po sa inyong pagtitiwala sa Falcon Bank sa loob ng maraming taon. Nauunawaan namin na aalis na kayo "
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "activation": "gelu",
+  "architectures": [
+    "DistilBertForSequenceClassification"
+  ],
+  "attention_dropout": 0.1,
+  "bos_token_id": null,
+  "dim": 768,
+  "dropout": 0.1,
+  "dtype": "float32",
+  "eos_token_id": null,
+  "hidden_dim": 3072,
+  "id2label": {
+    "0": "Account_Closure",
+    "1": "Remittance_Transfer",
+    "2": "Loan_Mortgage",
+    "3": "Fees_Charges",
+    "4": "Card_Services",
+    "5": "App_Technical",
+    "6": "General_Query"
+  },
+  "initializer_range": 0.02,
+  "label2id": {
+    "Account_Closure": 0,
+    "App_Technical": 5,
+    "Card_Services": 4,
+    "Fees_Charges": 3,
+    "General_Query": 6,
+    "Loan_Mortgage": 2,
+    "Remittance_Transfer": 1
+  },
+  "max_position_embeddings": 512,
+  "model_type": "distilbert",
+  "n_heads": 12,
+  "n_layers": 6,
+  "output_past": true,
+  "pad_token_id": 0,
+  "problem_type": "single_label_classification",
+  "qa_dropout": 0.1,
+  "seq_classif_dropout": 0.2,
+  "sinusoidal_pos_embds": false,
+  "tie_weights_": true,
+  "tie_word_embeddings": true,
+  "transformers_version": "5.12.1",
+  "use_cache": false,
+  "vocab_size": 119547
+}

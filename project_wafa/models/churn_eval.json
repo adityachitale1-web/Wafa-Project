@@ -1,0 +1,128 @@
+{
+  "primary": "logistic_regression",
+  "logistic_regression": {
+    "auc": 1.0,
+    "report": {
+      "0": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 43.0
+      },
+      "1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 17.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 60.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 60.0
+      }
+    },
+    "confusion": [
+      [
+        43,
+        0
+      ],
+      [
+        0,
+        17
+      ]
+    ]
+  },
+  "xgboost": {
+    "auc": 1.0,
+    "report": {
+      "0": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 43.0
+      },
+      "1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 17.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 60.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 60.0
+      }
+    },
+    "confusion": [
+      [
+        43,
+        0
+      ],
+      [
+        0,
+        17
+      ]
+    ]
+  },
+  "fairness_audit_by_region": {
+    "East_Asia": {
+      "n": 8,
+      "mean_predicted_risk": 0.24841519245601273,
+      "actual_churn_rate": 0.25
+    },
+    "MENA": {
+      "n": 15,
+      "mean_predicted_risk": 0.2398121318521105,
+      "actual_churn_rate": 0.2
+    },
+    "South_Asia": {
+      "n": 10,
+      "mean_predicted_risk": 0.27026718792155446,
+      "actual_churn_rate": 0.2
+    },
+    "Southeast_Asia": {
+      "n": 14,
+      "mean_predicted_risk": 0.4899384274100158,
+      "actual_churn_rate": 0.5
+    },
+    "Western": {
+      "n": 13,
+      "mean_predicted_risk": 0.2799214348387967,
+      "actual_churn_rate": 0.23076923076923078
+    }
+  },
+  "coefficients": {
+    "num__tenure_months": 0.2765,
+    "num__products_held": -0.0508,
+    "num__avg_balance_aed": -0.3615,
+    "num__balance_trend_3m": -3.6033,
+    "num__remittance_count_3m": -0.3256,
+    "num__complaints_6m": 0.0223,
+    "num__branch_visits_trend": 0.0876,
+    "num__clv_estimate_aed": -0.028,
+    "num__salary_credit_active": -0.8158,
+    "num__intl_transfer_spike": 0.7071,
+    "cat__segment_Mass": 0.1667,
+    "cat__segment_Premium": 0.1114,
+    "cat__segment_Private": -0.2861
+  },
+  "excluded_features": [
+    "nationality_region"
+  ]
+}

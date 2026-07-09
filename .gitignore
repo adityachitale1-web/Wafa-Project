@@ -1,0 +1,10 @@
+.claude/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+
+project_wafa/logs/
+project_wafa/models/wafa_finetuned_churn_signal/model.safetensors
+project_wafa/models/wafa_finetuned_issue_type/model.safetensors

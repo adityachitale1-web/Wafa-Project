@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+tensorflow
+keras
+gradio
+torch
+transformers
+huggingface_hub
