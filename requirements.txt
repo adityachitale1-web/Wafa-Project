@@ -1,0 +1,11 @@
+# Streamlit Community Cloud deployment (entrypoint: streamlit_app.py).
+# Trimmed from project_wafa/requirements.txt: no gradio (UI is ported to
+# Streamlit) and no torch/transformers (Qwen drafting is disabled on the
+# free tier via WAFA_USE_LLM=0 - m3_act falls back to template drafts).
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+tensorflow-cpu
